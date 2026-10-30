@@ -69,6 +69,12 @@ JULIÁN MIRANDA O
 IAN GARCÍA	
 **.
 
-## Estado del proyecto
+## Acceso al sistema
 
-En desarrollo.
+Para ingresar a GestorInventario se requiere un usuario y una contraseña.
+
+Las credenciales de acceso se proporcionan por separado al administrador o responsable del proyecto.
+
+## Descarga del instalador
+
+El instalador de Windows se encuentra disponible en la sección **Releases** de este repositorio.
