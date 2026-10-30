@@ -62,10 +62,10 @@ Los scripts SQL se encuentran en la carpeta `BaseDatos`.
 ## Autor
 
 Proyecto académico: 
-**JORGE OROZCO	
-JUAN TÉMAJ	
-JESER PÉREZ	
-JULIÁN MIRANDA O	
+**JORGE OROZCO,	
+JUAN TÉMAJ,	
+JESER PÉREZ,	
+JULIÁN MIRANDA,	
 IAN GARCÍA	
 **.
 
