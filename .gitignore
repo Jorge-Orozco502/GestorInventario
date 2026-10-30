@@ -1,0 +1,44 @@
+# JAVA
+*.class
+
+# MAVEN
+target/
+pom.xml.tag
+pom.xml.releaseBackup
+pom.xml.versionsBackup
+pom.xml.next
+release.properties
+
+# NETBEANS
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+# OTROS IDE
+.idea/
+*.iml
+.vscode/
+.settings/
+.project
+.classpath
+
+# ARCHIVOS TEMPORALES
+*.log
+*.tmp
+*.bak
+~*
+
+# SISTEMA OPERATIVO
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# CONFIGURACIONES SENSIBLES
+.env
+.env.*
+
+# RESPALDOS DE BASE DE DATOS
+*.sql.bak
+*.dump
