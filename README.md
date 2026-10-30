@@ -73,7 +73,8 @@ IAN GARCÍA
 
 Para ingresar a GestorInventario se requiere un usuario y una contraseña.
 
-Las credenciales de acceso se proporcionan por separado al administrador o responsable del proyecto.
+Usuario: admin_sistema
+contraseña: 1234
 
 ## Descarga del instalador
 
